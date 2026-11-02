@@ -9,12 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a single tile 'demo' hacked on the very last day, basically during
+coffee breaks. It's using an old rotozoom trick, and is otherwise pretty simple.
+
+Music is ... well it is an attempt ;)
 
 ## How to test
 
-Explain how to use your project
+Plug VGA pmod,  power up, enjoy.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+VGA PMOD, Audio PMOD
